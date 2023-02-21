@@ -1,0 +1,2329 @@
+
+@media(max-width:1680px)
+{
+    .question-ans-containt {
+        width: 60%;
+        padding: 0px 40px;
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 77px!important;
+        padding-right: 113px!important;
+        padding-bottom: 118px!important;
+        padding-left: 80px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 71px!important;
+        padding-right: 32px!important;
+        padding-bottom: 83px!important;
+        padding-left: 149px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+}
+@media(max-width:1600px)
+{
+    .button-web button {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 10px 47px;
+        font-size: 19px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    .question-ans-containt {
+        width: 60%;
+        padding: 0px 20px;
+    }
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 93px!important;
+        padding-right: 73px!important;
+        padding-bottom: 99px!important;
+        padding-left: 58px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 65px!important;
+        padding-right: -1px!important;
+        padding-bottom: 86px!important;
+        padding-left: 153px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: 5px;
+        right: -9px;
+    }
+}
+@media(max-width:1440px)
+{
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 32px!important;
+        padding-right: -1px!important;
+        padding-bottom: 45px!important;
+        padding-left: 153px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 63px!important;
+        padding-right: 76px!important;
+        padding-bottom: 74px!important;
+        padding-left: 40px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .Subscribe-service a {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+        position: relative;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -2px;
+        right: -9px;
+    }
+    .header {
+        padding: 20px 0;
+        background-color: #f7f6f6;
+    }
+    .navbar > ul > li >a {
+        font-size: 18px;
+        line-height: 26px;
+        color: black;
+        text-decoration: none;
+        padding: 6px 26px;
+        display: block;
+        font-weight: 700;
+    }
+    .banner-containt {
+        width: 50%;
+        padding: 70px;
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 25px;
+        color: #272727;
+        margin-top: 32px;
+        font-size: 18px;
+    }
+    .banner-button {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        margin-top: 35px;
+        
+    }
+    .banner-section {
+        padding: 75px 0;
+    }
+    h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+        line-height: 70px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .what-we-do-text h3 {
+        margin-top: 35px;
+    }
+    h3 {
+        font-family: 'Futura PT Demi';
+        font-size: 28px;
+        letter-spacing: -1px;
+        line-height: 53px;
+        color: #2b2b2b;
+        text-align: center;
+    }
+    .about-background {
+        border-radius: 68px;
+        padding: 51px 0;
+    }
+    .about-text {
+        padding: 0 17px;
+    }
+    .about-text p {
+        font-size: 20px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 17px;
+    }
+    .read-more {
+        margin-top: 9px;
+    }
+    .section-margin {
+        margin: 75px 0;
+    }
+    h2 {
+        font-size: 35px;
+        letter-spacing: -1px;
+        line-height: 70px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-background {
+        border-radius: 68px;
+        padding: 42px 72px;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 593px;
+        text-align: left;
+        margin-top: 8px;
+    }
+    .service-text {
+        width: 30%;
+        padding: 55px 28px;
+    }
+    .service-box-1 {
+        width: 369px;
+        height: 473px;
+        background-color: #ffffff;
+        border-radius: 68px;
+        transition: 0.5s;
+        overflow: hidden;
+        padding-top: 53px!important;
+        padding-right: 18px!important;
+        padding-bottom: 46px!important;
+        padding-left: 30px!important;
+    }
+    .service-box-1 p {
+        font-size: 20px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 19px;
+        transition: 0.8s;
+    }
+    .testimonial-title  h2 {
+        font-size: 43px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .testimonial-box {
+        width: 31.33%;
+        background-color: #fbfbfb;
+        padding: 53px 29px;
+        border-radius: 68px;
+    }
+    .blog-containt button {
+        background-color: #c90907;
+        color: white;
+        padding: 6px 31px;
+        font-family: 'Futura PT demi';
+        font-size: 17px;
+        text-decoration: none;
+        border: none;
+        transition: 0.5s;
+    }
+    .blog-containt p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+    .read-more a {
+        font-size: 23px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }
+    .branch-logo {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 34px;
+    }
+    .use-full {
+        line-height: 32px;
+        margin-top: 18px;
+    }
+    .use-full-links {
+        width: 50%;
+        margin-left: 95px;
+    }
+    .footer-time p:last-child {
+        margin-top: 39px;
+    }
+    .footer-row {
+        display: flex;
+        width: 100%;
+        padding: 0 42px;
+        flex-wrap: wrap;
+    }
+    .use-full-links h3 {
+        font-size: 16px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        line-height: 20px;
+        font-family: "Futura PT bold";
+        border-bottom: 4px solid #c90907;
+        text-align: left;
+        width: fit-content;
+    }
+    
+}
+@media(max-width:1366px)
+{
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -2px;
+        right: -9px;
+    }
+    .banner-section {
+        padding: 40px 0;
+    }
+    .banner-containt {
+        width: 50%;
+        padding: 50px;
+    }
+    .book-now-text a {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 10px 42px 10px 61px;
+        font-size: 16px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all 0.7s;
+        font-family: 'Futura PT Demi';
+    }
+    .book-now-button img {
+        position: absolute;
+        z-index: 1;
+        background-color: #f7f6f6;
+        border-radius: 100%;
+        border: 7px solid #f7f6f6;
+        left: -10%;
+        bottom: -74%;
+    }
+    .section-margin {
+        margin: 50px 0;
+    }
+    .about-text h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+        line-height: 28px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    h6 {
+        font-size: 26px;
+        line-height: 42px;
+        color: #272727;
+        font-family: "Futura PT";
+        font-family: 'Futura PT Book';
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 24px;
+        color: #272727;
+        margin-top: 14px;
+        font-size: 18px;
+    }
+    .question-ans-text p {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text h3 {
+        font-size: 28px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 69px!important;
+        padding-right: 76px!important;
+        padding-bottom: 85px!important;
+        padding-left: 31px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-rev p {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-rev h3 {
+        font-size: 27px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 50px!important;
+        padding-right: -1px!important;
+        padding-bottom: 51px!important;
+        padding-left: 132px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .marketing-background {
+        border-radius: 68px;
+        padding: 36px 57px;
+    }
+    h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 58px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 7px;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -2px;
+        right: -9px;
+    }
+    h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 43px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .button-web a {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 8px 47px;
+        font-size: 19px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    
+}
+@media(max-width:1280px)
+{
+    
+    
+    .button-web {
+        position: relative;
+        margin: 0 0 0 21px;
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 22px;
+        color: #272727;
+        margin-top: 14px;
+        font-size: 14px;
+    }
+    .button-web button {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 4px 32px;
+        font-size: 17px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    .banner-button {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        margin-top: 26px;
+        gap: 10px;
+    }
+    .button-web img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 7px solid #ffffff;
+        left: -8%;
+        bottom: -50%;
+        height: 55px;
+        width: 55px;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -9px;
+        right: -9px;
+    }
+    .use-full-links {
+        width: 1000%;
+        margin-left: 95px;
+        margin-top: 50px;
+    }
+    .banner-section {
+        padding: 54px 0;
+    }
+    .banner-containt {
+        width: 50%;
+        padding: 25px;
+    }
+    .navbar > ul > li >a {
+        font-size: 15px;
+        line-height: 18px;
+        color: black;
+        text-decoration: none;
+        padding: 6px 21px;
+        display: block;
+        font-weight: 700;
+    }
+    .call-header a:nth-child(2) {
+        font-family: "future";
+        color: black;
+        margin-left: 10px;
+        text-decoration: none;
+        font-size: 17px;
+        font-weight: 900;
+        letter-spacing: 1px;
+        transition: 0.5s;
+    }
+    .book-now-text a {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 9px 26px 9px 57px;
+        font-size: 16px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all 0.7s;
+        font-family: 'Futura PT Demi';
+    }
+    .book-now-button img {
+        position: absolute;
+        z-index: 1;
+        background-color: #f7f6f6;
+        border-radius: 100%;
+        border: 7px solid #f7f6f6;
+        left: -6%;
+        bottom: -57%;
+        height: 56px;
+        width: 56px;
+    }
+    .banner-section {
+        padding: 34px 0;
+    }
+    h6 {
+        font-size: 22px;
+        line-height: 38px;
+        color: #272727;
+        font-family: "Futura PT";
+        font-family: 'Futura PT Book';
+    }
+    h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 43px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    
+    .section-margin {
+        margin: 51px 0;
+    }
+    h2 {
+        font-size: 30px;
+        letter-spacing: -1px;
+        line-height: 43px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .what-we-do-text h3 {
+        margin-top: 14px;
+    }
+    h3 {
+        font-family: 'Futura PT Demi';
+        font-size: 22px;
+        letter-spacing: -1px;
+        line-height: 53px;
+        color: #2b2b2b;
+        text-align: center;
+    }
+    .about-text h2 {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 28px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .about-text p {
+        font-size: 17px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 11px;
+    }
+    .read-more {
+        margin-top: 1px;
+    }
+    .read-more a {
+        font-size: 21px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }
+    .question-ans-text p {
+        font-size: 19px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text h3 {
+        font-size: 22px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 71px!important;
+        padding-right: 81px!important;
+        padding-bottom: 69px!important;
+        padding-left: 35px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-rev p {
+        font-size: 17px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-rev h3 {
+        font-size: 23px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 43px!important;
+        padding-right: -1px!important;
+        padding-bottom: 43  px!important;
+        padding-left: 118px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .marketing-background {
+        border-radius: 51px;
+        padding: 28px 34px;
+    }
+    h2 {
+        font-size: 29px;
+        letter-spacing: -1px;
+        line-height: 43px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 13px;
+    }
+    .service-background {
+        background-color: #fbfbfb;
+        border-radius: 68px;
+        padding: 20px;
+    }
+    .testimonial-box {
+        width: 31.33%;
+        background-color: #fbfbfb;
+        padding: 24px 24px;
+        border-radius: 68px;
+    }
+    .testimonial-box p {
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #717171;
+        font-family: 'Futura PT Medium';
+    }
+    .testimonial-title  h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .testimonial-customer h3 {
+        text-align: left;
+        line-height: 25px;
+    }
+    .contact-background {
+        background-color: #fbfbfb;
+        padding: 36px 15px;
+        border-radius: 25px;
+    }
+    .contact-row i {
+        background-color: #c90907;
+        padding: 17px;
+        border-radius: 100%;
+        color: white;
+        font-size: 27px;
+        transition: all 0.7s;
+        margin-right: 19px;
+    }
+    .call-containt a {
+        font-size: 27px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        text-decoration: none;
+        transition: 0.5s;
+    }
+    .service-text {
+        width: 38%;
+        padding: 55px 28px;
+    }
+    .service-row {
+        width: 100%;
+        display: flex;
+        gap: 30px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .service-box-1 {
+        width: 369px;
+        height: 375px;
+        background-color: #ffffff;
+        border-radius: 68px;
+        transition: 0.5s;
+        overflow: hidden;
+        padding-top: 53px!important;
+        padding-right: 18px!important;
+        padding-bottom: 46px!important;
+        padding-left: 30px!important;
+    }
+    .testimonial-box {
+        width: 31.33%;
+        background-color: #fbfbfb;
+        padding: 19px 17px;
+        border-radius: 28px;
+    }
+    .blog-containt p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+    .blog-containt button {
+        background-color: #c90907;
+        color: white;
+        padding: 6px 19px;
+        font-family: 'Futura PT demi';
+        font-size: 15px;
+        text-decoration: none;
+        border: none;
+        transition: 0.5s;
+    }
+    .blog-box {
+        display: flex;
+        padding: 0 19px;
+        gap: 18px;
+    }
+    .blog-containt p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 8px;
+    }
+    .read-more a {
+        font-size: 16px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }
+    .blog-containt-w50 button {
+        background-color: #c90907;
+        color: white;
+        padding: 7px 31px;
+        font-family: 'Futura PT demi';
+        font-size: 18px;
+        text-decoration: none;
+        border: none;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+    .contact-row {
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+    }
+    .blog-containt-w50 button {
+        margin-top: 17px;
+    }
+    .blog-containt-w50 p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 18px;
+    }
+    .w50 {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .social-media-icon {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .use-full-links {
+        width: 50%;
+        margin-left: 0px;
+        margin-top: 50px;
+        padding: 0 50px;
+    }
+    
+    .footer-row {
+        display: flex;
+        width: 100%;
+        padding: 0 21px;
+        flex-wrap: wrap;
+    }
+    .inner-service {
+        display: flex;
+        width: 28%;
+    }   
+}
+@media(max-width:1024px)
+{
+    .inner-service {
+        display: flex;
+        width: 47%;
+    }
+    
+    .service-row {
+        width: 100%;
+        display: flex;
+        gap: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -5px;
+        right: -9px;
+    }
+    .button-web img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 4px solid #ffffff;
+        left: -7%;
+        bottom: -49%;
+        height: 48px;
+        width: 47px;
+    }
+    .button-web a {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 6px 44px;
+        font-size: 17px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    
+    .button-web {
+        position: relative;
+        margin: 0 0 0 14px;
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 28px!important;
+        padding-right: 55px!important;
+        padding-bottom: 47px!important;
+        padding-left: 32px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 13px!important;
+        padding-right: -1px!important;
+        padding-bottom: 17px!important;
+        padding-left: 118px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .about-text {
+        padding: 0 17px;
+        text-align: justify;
+        text-align-last: center;
+    }
+    .button-web button {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 10px 53px;
+        font-size: 19px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    .button-web img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 5px solid #ffffff;
+        left: -9%;
+        bottom: -52%;
+        height: 53px;
+        width: 53px;
+    }
+    .mobile-view-header {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        background-color: #ffffff;
+        z-index: 99;
+        border-bottom: 1px solid #c90907;
+    }
+    header {
+       display: none;
+    }
+    .mobile-view-logo img
+    {
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+    .banner-section {
+        padding: 34px 0;
+        padding-top: 116px;
+    }
+  
+}
+@media(max-width:991px)
+{
+    .inner-service {
+        display: flex;
+        width: 45%;
+    }
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 40px!important;
+        padding-right: 48px!important;
+        padding-bottom: 47px!important;
+        padding-left: 42px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 23px!important;
+        padding-right: -1px!important;
+        padding-bottom: 4px!important;
+        padding-left: 108px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .marketing-background {
+        border-radius: 68px;
+        padding: 46px 57px;
+    }
+    .banner-containt {
+        width: 100%;
+        padding: 25px;
+    }
+    .banner-img {
+        width: 100%;
+    }
+    .banner-row {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    .banner-containt {
+        width: 100%;
+        padding: 25px;
+        text-align: center;
+    }
+    .question-ans-rev-row {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        gap: 30px;
+    }
+    h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+        line-height: 63px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    h6 {
+        font-size: 25px;
+        line-height: 38px;
+        color: #272727;
+        font-family: "Futura PT";
+        font-family: 'Futura PT Book';
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 32px;
+        color: #272727;
+        margin-top: 14px;
+        font-size: 18px;
+    }
+    .banner-button {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        margin-top: 35px;
+        gap: 27px;
+        justify-content: center;
+    }
+    .what-we-do-row {
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        row-gap: 25px;
+    }
+    .round-1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        width: 50%;
+    }
+    .about-img {
+        width: 100%;
+        text-align: center;
+    }
+    .about-cointaiont {
+        width: 100%;
+    }
+    .about-text p {
+        font-size: 19px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 16px;
+    }
+    .question-ans {
+        display: flex;
+        width: 100%;
+        gap: 30px;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .question-ans-containt {
+        width: 100%;
+        /* padding: 0px 20px; */
+    }
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 53px!important;
+        padding-right: 40px!important;
+        padding-bottom: 74px!important;
+        padding-left: 29px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .marketing-containt {
+        width: 100%;
+    }
+    .service-box-1 {
+        width: 327px;
+        height: 375px;
+        background-color: #ffffff;
+        border-radius: 68px;
+        transition: 0.5s;
+        overflow: hidden;
+        padding-top: 53px!important;
+        padding-right: 18px!important;
+        padding-bottom: 46px!important;
+        padding-left: 30px!important;
+    }
+    .blog-row {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding: 36px 0;
+    }
+    .service-text {
+        width: 46%;
+        padding: 55px 28px;
+    }
+    .service-text {
+        width: 46%;
+        padding: 10px 12px;
+    }
+    .testimonial-box {
+        width: 45.33%;
+        background-color: #fbfbfb;
+        padding: 19px 17px;
+        border-radius: 28px;
+    }
+    .testimonial-row {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 26px;
+        justify-content: center;
+    }
+    .contact-row {
+        width: 100%;
+        justify-content: left;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .call-containt a {
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        text-decoration: none;
+        transition: 0.5s;
+    }
+    .blog-left-containt {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 30px;
+    }
+    .blog-containt p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 8px;
+    }
+    .question-ans-img {
+        width: 50%;
+        text-align: center;
+    }
+
+    .read-more a {
+        font-size: 19px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }   
+    .blog-right-containt {
+        width: 100%;
+    }
+    h2 {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 63px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: -10px;
+        line-height: 50px;
+    }
+    .testimonial-row {
+        width: 100%;
+        
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 26px;
+        justify-content: left;
+        row-gap: 26px;
+    }
+    .question-ans-text p {
+        font-size: 25px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 52px!important;
+        padding-right: 62px!important;
+        padding-bottom: 82px!important;
+        padding-left: 39px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-row {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 30px;
+    }
+    .question-ans-text-rev p {
+        font-size: 25px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 52px!important;
+        padding-right: -1px!important;
+        padding-bottom: 29px!important;
+        padding-left: 124px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+   
+}
+
+@media(max-width:767px)
+{
+    .inner-service {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 8px!important;
+        padding-right: 16px!important;
+        padding-bottom: 6px!important;
+        padding-left: 90px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 5px!important;
+        padding-right: 22px!important;
+        padding-bottom: 10px!important;
+        padding-left: 86px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .service-text {
+        width: 94%;
+        padding: 10px 12px;
+        text-align: center;
+    }
+    .service-text h3 {
+        text-align: center;
+        color: #c90907;
+    }
+    .button-web button {
+        background-color: #d40a08;
+        color: white;
+        border: none;
+        border-radius: 21px;
+        padding: 7px 47px;
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: "future";
+        transition: all 0.7s;
+    }
+    .main-menu-mobile {
+        background-image: linear-gradient( #d40a08 , rgb(0, 0, 0));
+        height: fit-content;
+        padding: 30px 0;
+        width: 45%;
+        z-index: 99;
+        position: absolute;
+        top: 100%;
+        height: 100dvh;
+    }
+    .button-web img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 6px solid #ffffff;
+        left: -11%;
+        bottom: -57%;
+        height: 55px;
+        width: 55px;
+    }
+    .mobile-view-logo {
+        height: 37px;
+        width: 233px;
+    }
+    .blog-box {
+        display: flex;
+        padding: 0 0px;
+        gap: 17px;
+    }
+    #nav-icon1, #nav-icon2, #nav-icon3, #nav-icon4 {
+        width: 31px;
+        height: 39px;
+        position: relative;
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+        -webkit-transition: .5s ease-in-out;
+        -moz-transition: .5s ease-in-out;
+        -o-transition: .5s ease-in-out;
+        transition: .5s ease-in-out;
+        cursor: pointer;
+    }
+    
+    .copy-right-section {
+        background-color: #ededed;
+        padding: 9px 0;
+    }
+    .copy-right-text a {
+        border-right: 1px solid black;
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        text-decoration: none;
+        padding-right: 10px;
+    }
+    .copy-right-text {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+    .copy-right-text p {
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        padding-left: 10px;
+    }
+    .copy-right-text p {
+        font-size: 15px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        padding-left: 10px;
+    }
+    .copy-right-text p {
+        font-size: 15px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        padding-left: 10px;
+    }
+    .read-more span::after {
+        content: "";
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border: 2px solid gray;
+        border-radius: 100%;
+        top: -4px;
+        right: -9px;
+    }
+    .about-background {
+        border-radius: 68px;
+        padding: 51px 0;
+        text-align: center;
+    }
+    .about-text h3 {
+        color: #d40a08;
+        text-align: center;
+    }
+    .read-more a {
+        font-size: 21px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }
+    .copy-right-row {
+        width: 100%;
+        justify-content: space-between;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 27px;
+        color: #272727;
+        margin-top: 14px;
+        font-size: 16px;
+    }
+    h2 {
+        font-size: 27px;
+        letter-spacing: -1px;
+        line-height: 43px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }   
+    .what-we-do-background {
+        background-color: #fbfbfb;
+        padding: 36px 0;
+        border-radius: 68px;
+        margin-top: 13px;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 14px;
+        line-height: 40px;
+    }
+    .book-now-button-white a {
+        background-color: #ffffff;
+        color: rgb(0, 0, 0);
+        border: none;
+        border-radius: 21px;
+        padding: 11px 40px 11px 60px;
+        font-size: 16px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all 0.7s;
+        font-family: 'Futura PT Light';
+    }
+    .book-now-button-white img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 7px solid #c90907;
+        left: -4%;
+        bottom: -73%;
+        height: 62px;
+        width: 62px;
+    }
+    .footer-logo {
+        width: 100%;
+    }
+    .use-full-links {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 50px;
+        padding: 0 0px;
+    }
+    .question-ans-text p {
+        font-size: 20px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text {
+        background-size: CONTAIN;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 12px!important;
+        padding-right: 48px!important;
+        padding-bottom: 3px!important;
+        padding-left: 47px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text h3 {
+        font-size: 19px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text-rev p {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height: 31px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-rev h3 {
+        font-size: 20px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .copy-right-text {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .copy-right-text a {
+        border-right: 1px solid black;
+        font-size: 13px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        text-decoration: none;
+        padding-right: 10px;
+    }
+    .copy-right-text p {
+        font-size: 12px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        padding-left: 10px;
+    }
+    .about-text h2 {
+        font-size: 29px;
+        letter-spacing: -1px;
+        line-height: 33px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .about-text p {
+        font-size: 14px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 16px;
+    }
+    .about-background {
+        border-radius: 68px;
+        padding: 36px 0;
+        text-align: center;
+    }
+    .question-ans-img {
+        width: 93%;
+        text-align: center;
+    }
+    .contact-row {
+        width: 100%;
+        justify-content: left;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 13px;
+    }
+    .navbar-mobile > ul {
+        line-height: 33px;
+        margin: 0 15px;
+    }
+    .mobile-contact {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        padding: 20px 30px;
+        align-items: end;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:575px)
+{
+    .question-ans-text-background {
+        background-size: contain;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 27px!important;
+        padding-right: 18px!important;
+        padding-bottom: 22px!important;
+        padding-left: 82px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .button-web img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 6px solid #ffffff;
+        left: -9%;
+        bottom: -53%;
+        height: 50px;
+        width: 50px;
+    }
+    .branch-logo {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 34px;
+        display: none;
+    }
+    .mobile-user a
+{
+    color: white;
+    font-size: 17px;
+    margin: 0 8px;
+}
+.about-background {
+    border-radius: 39px;
+    padding: 36px 0;
+    text-align: center;
+}
+.marketing-text h2 {
+    color: white;
+    max-width: 593px;
+    TEXT-ALIGN: inherit;
+}
+.marketing-background {
+    border-radius: 37px;
+    padding: 44px 17px;
+}
+}
+@media(max-width:425px)
+{
+    .marketing-background {
+        border-radius: 37px;
+        padding: 44px 17px;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 33px!important;
+        padding-right: 17px!important;
+        background-size: contain;
+        padding-bottom: 34px!important;
+        padding-left: 59px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+   
+    .call-header-logo img
+    {
+        height: 20px;
+        width: 20px;
+    }
+    .navbar-mobile > ul {
+        line-height: 33px;
+        margin: 0 12px;
+    }
+    .main-menu-mobile {
+        background-image: linear-gradient( #d40a08 , rgb(0, 0, 0));
+        height: fit-content;
+        padding: 30px 0;
+        width: 70%;
+        z-index: 99;
+        position: absolute;
+        top: 100%;
+        height: 100dvh;
+    }
+    .navbar-mobile > ul > li > a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-family: 'Futura PT Demi';
+        font-size: 14px;
+        transition: all 0.5s;
+    }
+   
+    .mobile-view-header {
+        padding: 9px 0;
+    }
+    .mobile-view-logo {
+        height: 32px;
+        width: 191px;
+    }
+    #nav-icon1 span, #nav-icon3 span, #nav-icon4 span {
+        display: block;
+        position: absolute;
+        height: 2px;
+        width: 57%;
+        background: #d40a08;
+        border-radius: 9px;
+        opacity: 1;
+        left: 0;
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+        -webkit-transition: .25s ease-in-out;
+        -moz-transition: .25s ease-in-out;
+        -o-transition: .25s ease-in-out;
+        transition: .25s ease-in-out;
+    }
+    #nav-icon1 span:nth-child(2) {
+        top: 18px;
+    }
+    #nav-icon1 span:nth-child(3) {
+        top: 26px;
+    }
+    .about-img img
+    {
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+    .round-1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        width: 100%;
+    }
+    h2 {
+        font-size: 22px;
+        letter-spacing: -1px;
+        line-height: 50px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 14px;
+        line-height: 40px;
+        font-size: 22px;
+    }
+    .book-now-button-white a {
+        background-color: #ffffff;
+        color: rgb(0, 0, 0);
+        border: none;
+        border-radius: 21px;
+        padding: 9px 27px 10px 57px;
+        font-size: 13px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all 0.7s;
+        font-family: 'Futura PT Light';
+    }
+    .book-now-button-white img {
+        position: absolute;
+        z-index: 1;
+        background-color: #ffffff;
+        border-radius: 100%;
+        border: 7px solid #c90907;
+        left: -3%;
+        bottom: -77%;
+        height: 52px;
+        width: 52px;
+    }
+    .service-text {
+        width: 90%;
+        padding: 10px 12px;
+    }   
+    .testimonial-box {
+        width: 98%;
+        background-color: #fbfbfb;
+        padding: 19px 17px;
+        border-radius: 28px;
+    }
+  
+    .blog-box {
+        display: flex;
+        padding: 0 10px;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+    .blog-img {
+        width: 100%;
+    }
+    .branch-logo img
+    {
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+    h6 {
+        font-size: 19px;
+        line-height: 25px;
+        color: #272727;
+        font-family: "Futura PT";
+        font-family: 'Futura PT Book';
+    }
+    .banner-containt {
+        width: 100%;
+        padding: 6px;
+        text-align: center;
+    }
+    h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 50px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .banner-button {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        margin-top: 26px;
+        gap: 24px;
+        justify-content: center;
+    }
+    .about-text {
+        padding: 0 11px;
+    }
+    .about-text p {
+        font-size: 17px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 16px;
+        line-height: 19PX;
+    }
+    .question-ans-img {
+        width: 80%;
+        text-align: center;
+    }
+    .question-ans-containt {
+        width: 60%;
+        padding: 0px 0px;
+    }
+    .question-ans-containt {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .question-ans-text p {
+        font-size: 15px;
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 33px!important;
+        padding-right: 20px!important;
+        padding-bottom: 12px!important;
+        padding-left: 44px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text h3 {
+        font-size: 14px;
+        letter-spacing: -1px;
+        line-height: 22px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text-rev p {
+        font-size: 14px;
+        letter-spacing: -1px;
+        line-height: 18px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-rev h3 {
+        font-size: 14px;
+        letter-spacing: -1px;
+        line-height: 40px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    h2 {
+        font-size: 21px;
+        letter-spacing: -1px;
+        line-height: 32px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 14px;
+        line-height: 29px;
+        font-size: 22px;
+    }
+    .service-text {
+        width: 94%;
+        padding: 10px 12px;
+    }.service-box-1 {
+        width: 370px;
+        height: 375px;
+        background-color: #ffffff;
+        border-radius: 68px;
+        transition: 0.5s;
+        overflow: hidden;
+        padding-top: 53px!important;
+        padding-right: 18px!important;
+        padding-bottom: 46px!important;
+        padding-left: 30px!important;
+    }
+    .Subscribe-service a {
+        font-size: 24px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+        position: relative;
+    }
+    .Subscribe-service span {
+        font-size: 21px;
+        width: 500px;
+        align-self: center;
+    }
+    .contact-row i {
+        background-color: #c90907;
+        padding: 9px;
+        border-radius: 100%;
+        color: white;
+        font-size: 20px;
+        transition: all 0.7s;
+        margin-right: 19px;
+    }
+    .testimonial-title  h3 {
+        color: #d40a08;
+        text-align: center;
+    }
+    .testimonial-title  h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 48px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        text-align: center;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+    }
+    .blog-title h3 {
+        text-align: center;
+        color: #c90907;
+    }
+    h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 32px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+        text-align: center;
+    }
+    .banner-text p {
+        font-family: 'Futura PT Demi';
+        font-size: 18px;
+        line-height: 22px;
+        color: #272727;
+        margin-top: 14px;
+        font-size: 16px;
+    }
+    .call-number {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .call-containt {
+        text-align: center;
+    }
+    .mail-address {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .call-containt a {
+        font-size: 18px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT Medium';
+        text-decoration: none;
+        transition: 0.5s;
+    }
+    .call-containt p {
+        font-size: 14px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: 'Futura PT demi';
+    }
+    .marketing-background {
+        border-radius: 68px;
+        padding: 44px 17px;
+    }
+    h2 {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height: 32px;
+        text-transform: uppercase;
+        color: #272727;
+        font-weight: bold;
+        font-family: 'Maiandra GD';
+        font-weight: bold;
+        text-align: center;
+    }
+    .marketing-text h4 {
+        font-family: 'Futura PT Light';
+        color: white;
+        max-width: 483px;
+        text-align: left;
+        margin-top: 14px;
+        line-height: 29px;
+        font-size: 19px;
+    }
+    .service-box-1 p {
+        font-size: 17px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+        max-width: 690px;
+        margin-top: 11px;
+        transition: 0.8s;
+        line-height: 23px;
+    }
+    .service-background {
+        background-color: #fbfbfb;
+        border-radius: 68px;
+        padding: 8px;
+    }
+    .blog-row {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding: 16px 0;
+    }
+    .blog-readmore {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 0px;
+    }
+    .read-more a {
+        font-size: 19px;
+        letter-spacing: -1px;
+        line-height: 37px;
+        text-decoration: none;
+        color: #d40a08;
+        font-family: 'Maiandra GD';
+        font-weight: bolder;
+        transition: 0.5s;
+    }
+    .blog-containt-w50 button {
+        background-color: #c90907;
+        color: white;
+        padding: 5px 23px;
+        font-family: 'Futura PT demi';
+        font-size: 18px;
+        text-decoration: none;
+        border: none;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 29px!important;
+        background-size: contain;
+        padding-right: 43px!important;
+        padding-bottom: 43px!important;
+        padding-left: 25px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+}
+
+@media(max-width:320px)
+{
+    .question-ans-text p {
+        font-size: 13px;
+        letter-spacing: -1px;
+        line-height: 18px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text h3 {
+        font-size: 12px;
+        letter-spacing: -1px;
+        line-height: 17px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text-rev p {
+        font-size: 12px;
+        letter-spacing: -1px;
+        line-height: 13px;
+        color: #272727;
+        font-family: 'Futura PT Medium';
+    }
+    .question-ans-text-rev h3 {
+        font-size: 13px;
+        letter-spacing: -1px;
+        line-height: 22px;
+        color: #c90907;
+        font-family: "Futura PT bold";
+        text-align: left;
+    }
+    .question-ans-text {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 15px!important;
+        background-size: contain;
+        padding-right: 37px!important;
+        padding-bottom: 43px!important;
+        padding-left: 25px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+    .question-ans-text-background {
+        background-size: cover;
+        background-image: url("../image/qustion-ans/border-reversr.png");
+        background-repeat: no-repeat;
+        overflow-x: visible;
+        overflow-y: visible;
+        padding-top: 16px!important;
+        padding-right: 16px!important;
+        background-size: contain;
+        padding-bottom: 34px!important;
+        padding-left: 59px!important;
+        transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    }
+}
